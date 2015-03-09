@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6FA2BBC-8FA3-4336-84AE-9FC25C43A2CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>.</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>160FBE56E99BFD59F0EAAFB835C3FE2E1F3C6E97</key>
+		<string>https://github.com/rt1221/NYUCodebase.xcodeproj.git</string>
+		<key>22D2F53B496E9721F7503D064D5C62AF871F3FBB</key>
+		<string>https://github.com/rt1221/Xcode.git</string>
+		<key>760F315E6A224DD41EC508624DC5039C0F948180</key>
+		<string>https://github.com/rt1221/NYUCodebase.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>.</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>160FBE56E99BFD59F0EAAFB835C3FE2E1F3C6E97</key>
+		<string>..</string>
+		<key>22D2F53B496E9721F7503D064D5C62AF871F3FBB</key>
+		<string>../..</string>
+		<key>760F315E6A224DD41EC508624DC5039C0F948180</key>
+		<string>../../NYUCodebase</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rt1221/NYUCodebase.xcodeproj.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>160FBE56E99BFD59F0EAAFB835C3FE2E1F3C6E97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22D2F53B496E9721F7503D064D5C62AF871F3FBB</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>760F315E6A224DD41EC508624DC5039C0F948180</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NYUCodebase</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>160FBE56E99BFD59F0EAAFB835C3FE2E1F3C6E97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NYUCodebase.xcodeproj</string>
+		</dict>
+	</array>
+</dict>
+</plist>
